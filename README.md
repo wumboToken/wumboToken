@@ -10,7 +10,8 @@ and a decentralized exchange.
 🔥 Tokenomics﻿🔥
 
 Wumbo Token ($Wumbo) is a BEP-20 token in the Binance Smart Chain. A deflationary token that 
-collects 15% tax every transactions (buy, sell & transfer) where 5% of the tax goes to liquidity pool. 
-The burn function 5% tax of the contract promotes scarcity and reduces circulating supply. The remaining 
-5% will be distributed to token holders relative to their holding percentage.
+collects a 15% tax on every transactions (buy, sell & transfer). 15% is divided equally.
+⚈ 5% to a liquidity pool. 
+⚈ 5% is burned which promotes scarcity and reduces the circulating supply.
+⚈ 5% will be distributed to token holders relative to their holding percentage.
 
