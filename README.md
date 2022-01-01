@@ -7,7 +7,7 @@ and a decentralized exchange.
 
 
 
-###🔥 Tokenomics﻿🔥
+🔥 Tokenomics﻿🔥
 
 Wumbo Token ($Wumbo) is a BEP-20 token in the Binance Smart Chain. A deflationary token that 
 collects 15% tax every transactions (buy, sell & transfer) where 5% of the tax goes to liquidity pool. 
